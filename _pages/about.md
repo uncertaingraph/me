@@ -54,8 +54,7 @@ function ShowAndHide(SectionName) {
 </div><br>
 
 <div style="text-align: justify">
-  <b>February 20th, 2022:</b> I'm excited to share that I will be working at <a href="https://imanage.com/">iManage</a> as a Data Science Intern this summer. I’ll be working on various algorithms and using Natural Language Processing (NLP) methods to "rigorously measure the product quality, improve enterprise products, and
-understand the behavior of end-users".
+  <b>February 20th, 2022:</b> I'm excited to share that I will be working at <a href="https://imanage.com/">iManage</a> as a Data Science Intern this summer. My role is to work on various algorithms and use Natural Language Processing (NLP) methods to "rigorously measure the product quality, improve enterprise products, and understand the behavior of end-users".
 </div><br>
 
 
