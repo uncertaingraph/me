@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+## About me
 <div style="text-align: justify">
 Welcome to my home on the web! My name is Frank, I am a fifth year Ph.D. student in Computer Engineering at the University of Illinois at Urbana-Champaign (UIUC). My academic advisor is <a href="http://dmnicol.web.engr.illinois.edu/">Prof. David M. Nicol</a>.
 </div><br>
@@ -25,3 +26,12 @@ I got my undergraduate degree in Computer Engineering from the School of Computi
 Office: 448, Coordinated Science Lab, 1308 W Main St, Urbana, IL 61801<br>
 Email: nhh311(at)gmail(dot)com<br>
 Phone: (217) 751-2eight4six<br>
+
+## News
+<div style="text-align: justify">
+March 14th, 2022: My paper "Exploiting monotonicity and symmetry for evaluation of highly dependable systems" has been accepted to appear in The 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022)
+</div><br>
+
+<div style="text-align: justify">
+February 23rd, 2022: My paper "WiP: WiP: A Model-Based Approach for Quantitative Decision-Making in Cybersecurity Incident Response", has been accepted to the HotSoS 2022 Special Session on Works-in-Progress.
+</div><br>
