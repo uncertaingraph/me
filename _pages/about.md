@@ -29,14 +29,23 @@ Email: nhh311(at)gmail(dot)com<br>
 Phone: (217) 751-2eight4six<br>
 </div><br>
 
+<SCRIPT>
+function ShowAndHide() {
+    var x = document.getElementById('SectionName');
+    if (x.style.display == 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</SCRIPT>
+
 ## News
 <div style="text-align: justify">
 March 14th, 2022: My paper <i>"Exploiting monotonicity and symmetry for evaluation of highly dependable systems"</i> has been accepted to appear in The 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022).
-<BUTTON ID="ShowDSN" VALUE="Show abstract" ONCLICK=" document.getElementById('ShowDSN').style.display='none'; document.getElementById('HideDSN').style.display='block'; document.getElementById('DSNAbstract').style.display='block'">
-<BUTTON ID="HideDSN" VALUE="Hide abstract" ONCLICK=" document.getElementById('ShowDSN').style.display='block'; document.getElementById('HideDSN').style.display='none'; document.getElementById('DSNAbstract').style.display='none'">
-
-<DIV ID="'DSNAbstract'" STYLE="display:none">Evaluation of highly dependable systems requires estimating the probability of a significant rare event under which the system fails to meet the requirement. To improve the estimation accuracy, advanced Monte Carlo simulation techniques such as importance sampling (IS) are commonly used. However, IS is known to misbehave under high dimension. As a result, the IS estimator can have a large relative error and underestimate the rare event probability. In this paper, we propose a novel IS method based on the idea of maximum weight minimization (MWM). Our method works by finding the sampling distribution that minimizes the maximum weight of a rare event sample. To alleviate the curse of dimensionality, we develop several heuristics based on two problem-specific structures, namely, monotonicity and symmetry. Using extensive examples from network reliability, stochastic flow analysis, cyber-security risk assessment, and fault tree analysis, we evaluate the performance of MWM, demonstrate its accuracy and scalability, and highlight applications where it outperforms state-of-the-art techniques.</DIV>
-</div><br>
+<BUTTON ONCLICK="ShowAndHide()">Abstract</BUTTON>
+<DIV ID="SectionName" STYLE="display:none">Evaluation of highly dependable systems requires estimating the probability of a significant rare event under which the system fails to meet the requirement. To improve the estimation accuracy, advanced Monte Carlo simulation techniques such as importance sampling (IS) are commonly used. However, IS is known to misbehave under high dimension. As a result, the IS estimator can have a large relative error and underestimate the rare event probability. In this paper, we propose a novel IS method based on the idea of maximum weight minimization (MWM). Our method works by finding the sampling distribution that minimizes the maximum weight of a rare event sample. To alleviate the curse of dimensionality, we develop several heuristics based on two problem-specific structures, namely, monotonicity and symmetry. Using extensive examples from network reliability, stochastic flow analysis, cyber-security risk assessment, and fault tree analysis, we evaluate the performance of MWM, demonstrate its accuracy and scalability, and highlight applications where it outperforms state-of-the-art techniques.
+</DIV>
 
 <div style="text-align: justify">
 February 23rd, 2022: My paper <i>"A model-based approach for quantitative decision-making in cybersecurity incident response"</i>, has been accepted to the HotSoS 2022 Special Session on Works-in-Progress.
