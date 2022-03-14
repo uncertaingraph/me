@@ -40,7 +40,7 @@ function ShowAndHide(SectionName) {
 }
 </SCRIPT>
 
-## News
+## Announcement
 <div style="text-align: justify">
 <b>March 14th, 2022:</b> My paper <i>"Exploiting monotonicity and symmetry for evaluation of highly dependable systems"</i> has been accepted to appear in The 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022).
 <BUTTON ONCLICK="ShowAndHide(DSN_Abstract)">Abstract</BUTTON>
@@ -52,3 +52,11 @@ function ShowAndHide(SectionName) {
 <BUTTON ONCLICK="ShowAndHide(HOTSOS_Abstract)">Abstract</BUTTON>
 <DIV ID="HOTSOS_Abstract" STYLE="display:none; padding-left: 7px; padding-right: 7px; background-color:Gainsboro;"><i>"Cybersecurity incident response (CSIR) is an integral part of the organization's risk management strategy to reduce the damage to the network after the initial breach. In spite of the great financial interest and the recent developments, CSIR remains a rather complex process. In particular, the existing literature lacks a quantitative approach that can effectively deal with the complex, uncertain, and rapidly changing nature of cyberattacks. In this work, we developed a model-based approach that seeks to address part of this challenge. The approach allows the defender to (i) aggregate noisy, incomplete, and sometimes conflicting information about the attack and, without fully knowing the scope of the attack, (ii) come up with a containment plan that minimizes the impact of the attack on the network and the cost of making wrong containment decisions based on inaccurate information. We illustrated the approach using an example of a small network and discussed ideas for the future work."</i></DIV>
 </div><br>
+
+<div style="text-align: justify">
+  <b>February 20th, 2020:</b> I'm excited to share that I will be working at <a href="https://imanage.com/">iManage</a> as a Data Science Intern this summer. I’ll be working on various algorithms and using Natural Language Processing (NLP) methods to "rigorously measure the product quality, improve enterprise products, and
+understand the behavior of end-users".
+</div><br>
+
+
+
