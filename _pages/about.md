@@ -29,9 +29,9 @@ Phone: (217) 751-2eight4six<br>
 
 ## News
 <div style="text-align: justify">
-March 14th, 2022: My paper "Exploiting monotonicity and symmetry for evaluation of highly dependable systems" has been accepted to appear in The 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022)
+March 14th, 2022: My paper <i>"Exploiting monotonicity and symmetry for evaluation of highly dependable systems"</i> has been accepted to appear in The 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022)
 </div><br>
 
 <div style="text-align: justify">
-February 23rd, 2022: My paper "WiP: WiP: A Model-Based Approach for Quantitative Decision-Making in Cybersecurity Incident Response", has been accepted to the HotSoS 2022 Special Session on Works-in-Progress.
+February 23rd, 2022: My paper <i>"A model-based approach for quantitative decision-making in cybersecurity incident response"</i>, has been accepted to the HotSoS 2022 Special Session on Works-in-Progress.
 </div><br>
