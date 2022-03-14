@@ -32,9 +32,19 @@ Phone: (217) 751-2eight4six<br>
 ## News
 <div style="text-align: justify">
 March 14th, 2022: My paper <i>"Exploiting monotonicity and symmetry for evaluation of highly dependable systems"</i> has been accepted to appear in The 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022).
-<a href="#" onclick="document.getElementById('abstract').innerHTML='Show me the abstract';">[abstract]</a>&nbsp;  &nbsp;
-</div>
-<div id="abstract"></div>
+<SCRIPT>
+function ShowAndHide() {
+    var x = document.getElementById('SectionName');
+    if (x.style.display == 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</SCRIPT>
+<BUTTON ONCLICK="ShowAndHide()">Click me</BUTTON>
+<DIV ID="SectionName" STYLE="display:none">Text to be shown and hidden</DIV>
+
 </div><br>
 
 <div style="text-align: justify">
