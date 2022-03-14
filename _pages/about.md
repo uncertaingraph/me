@@ -24,9 +24,9 @@ I got my undergraduate degree in Computer Engineering from the School of Computi
 
 ## Contact
 <div style="text-align: justify">
-Office: 448, Coordinated Science Lab, 1308 W Main St, Urbana, IL 61801<br>
-Email: nhh311(at)gmail(dot)com<br>
-Phone: (217) 751-2eight4six<br>
+<b>Office:</b> 448, Coordinated Science Lab, 1308 W Main St, Urbana, IL 61801<br>
+<b>Email:<b/> nhh311(at)gmail(dot)com<br>
+<b>Phone:</b> (217) 751-2eight4six<br>
 </div><br>
 
 <SCRIPT>
