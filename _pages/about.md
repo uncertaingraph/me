@@ -12,6 +12,7 @@ redirect_from:
 <div style="text-align: justify">
 Welcome to my home on the web! My name is Frank, I am a fifth year Ph.D. student in Computer Engineering at the University of Illinois at Urbana-Champaign (UIUC). My academic advisor is <a href="http://dmnicol.web.engr.illinois.edu/">Prof. David M. Nicol</a>.
 </div><br>
+
 <div style="text-align: justify">
 My research at UIUC lies at the intersection between network security, graph theory, probability theory, and quantitative risk. My first goal is to develop a theoretical framework for expressing uncertainty in modeling of multi-step cyber-attacks. My next goal is to design efficient algorithms based on Monte Carlo methods for quantifying the impacts of cyber-attacks against networked computer systems. The estimated impact will help network defenders make quantitative and risk-informed defense decisions prior to and during a cyber-attack.
 </div><br>
