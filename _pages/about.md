@@ -43,7 +43,10 @@ function ShowAndHide(SectionName) {
 
 ## Announcement
 <div style="text-align: justify">
-<b>May 24th, 2022:</b> I passed the doctoral final examination! The title of my thesis is <i>"Modeling and analysis of trustworthy systems using extensions of network reliability"</i>.</br>
+<b>May 24th, 2022:</b> I passed the doctoral final examination! The title of my thesis is <i>"Modeling and analysis of trustworthy systems using extensions of network reliability"</i>.
+</div><br>
+
+<div style="text-align: justify">
 <b>March 14th, 2022:</b> My paper <i>"Exploiting monotonicity and symmetry for evaluation of highly dependable systems"</i> has been accepted to the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022).
 <BUTTON ONCLICK="ShowAndHide('DSN_Abstract')">Abstract</BUTTON>
 <DIV ID="DSN_Abstract" STYLE="display:none; padding-left: 7px; padding-right: 7px; background-color:Gainsboro;"><i>"Evaluation of highly dependable systems requires estimating the probability of a significant rare event under which the system fails to meet the requirement. To improve the estimation accuracy, advanced Monte Carlo simulation techniques such as importance sampling (IS) are commonly used. However, IS is known to misbehave under high dimension. As a result, the IS estimator can have a large relative error and underestimate the rare event probability. In this paper, we propose a novel IS method based on the idea of maximum weight minimization (MWM). Our method works by finding the sampling distribution that minimizes the maximum weight of a rare event sample. To alleviate the curse of dimensionality, we develop several heuristics based on two problem-specific structures, namely, monotonicity and symmetry. Using extensive examples from network reliability, stochastic flow analysis, cyber-security risk assessment, and fault tree analysis, we evaluate the performance of MWM, demonstrate its accuracy and scalability, and highlight applications where it outperforms state-of-the-art techniques."</i></DIV>
@@ -56,7 +59,7 @@ function ShowAndHide(SectionName) {
 </div><br>
 
 <div style="text-align: justify">
-  <b>February 20th, 2022:</b> I'm excited to share that I will be working at <a href="https://imanage.com/">iManage</a> as a Data Science Intern this summer. My role is to work on various algorithms and use Natural Language Processing (NLP) methods to "rigorously measure the product quality, improve enterprise products, and understand the behavior of end-users".
+<b>February 20th, 2022:</b> I'm excited to share that I will be working at <a href="https://imanage.com/">iManage</a> as a Data Science Intern this summer. My role is to work on various algorithms and use Natural Language Processing (NLP) methods to "rigorously measure the product quality, improve enterprise products, and understand the behavior of end-users".
 </div>
 
 
