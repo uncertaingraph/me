@@ -14,7 +14,7 @@ Everyone loves a hike in the woods. But as someone who is also interested in mul
 <div style="text-align: justify">
 In 2018, I purchased a second hand sewing machine from Facebook Marketplace, a basic 14-stitch <a href="https://www.brother-usa.com/products/sm1400">Brother SM1400</a>, and started making stuff sacks. Stuff sacks are great for organizing the backpack and they are one of the simplest sewing projects for a beginner. Ever since, some of my stuff sacks made from <a href="https://ripstopbytheroll.com/products/1-1-oz-silnylon">1.1oz ripstop nylon</a> have been with me on every camping trip and they still last to this day.
 </div>
-<img src="https://raw.githubusercontent.com/hnguye11/me/master/images/myog-stuff-sack.png"> <br>
+<img src="https://github.com/uncertaingraph/me/blob/fafe86c2315608cd02c4b60b10e4af9e8eb8ac4a/images/myog-stuff-sack.png"> <br>
 
 <div style="text-align: justify">
 Then I decided to step up my game and make something more complex. My second project was to modify a Costco down throw into a hammock under quilt. The under quilt turned out quite well. Paired with my <a href="https://www.warbonnetoutdoors.com/product/blackbird/">Warbonnet Blackbird hammock</a>, they made a great 3-season camping setup.
