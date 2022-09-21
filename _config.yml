@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hoang Hai Nguyen"
 title_separator          : "-"
 name                     : &name "Hoang Hai Nguyen (Frank)"
-description              : &description "UIUC PhD Candidate"
+description              : &description "Software Engineer"
 url                      : https://uncertaingraph.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/me" # the subpath of your site, e.g. "/blog"
 repository               : "uncertaingraph.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hoang Hai Nguyen (Frank)"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Computer Engineering, University of Illinois at Urbana-Champaign"
-  location         : "Urbana, IL" #448, Coordinated Science Lab, 1308 W Main St, 
+  bio              : "Software Engineer at Amazon AWS"
+  location         : "San Jose, CA" #448, Coordinated Science Lab, 1308 W Main St, 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VMc14jAAAAAJ&hl=en"
