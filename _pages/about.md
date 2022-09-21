@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## About me
 <div style="text-align: justify">
 Welcome to my home on the web! My name is Frank, I am currently a Software Engineer (SDE-II) at Amazon AWS.
 </div><br>
