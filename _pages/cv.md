@@ -24,11 +24,11 @@ Software Engineer at Amazon AWS (Sept 2022 - present)
 
 Data Science Intern at iManage (May 2022 - Aug 2022)
 
-Research assistant at UIUC (Aug 2015 - May 2022)
+Research Assistant at UIUC (Aug 2015 - May 2022)
 
-Software engineer at ADSC (Sept 2011 - May 2015)
+Software Engineer at ADSC (Sept 2011 - May 2015)
 
-Software engineer intern at Temasek Lab, NUS (Oct 2010 - Mar 2011)
+Software Engineer Intern at Temasek Lab, NUS (Oct 2010 - Mar 2011)
 
 ## Research skills
 <div style="text-align: justify">
