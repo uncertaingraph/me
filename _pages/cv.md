@@ -22,7 +22,7 @@ B.Comp. in Computer Engineering, School of Computing, NUS (Aug 2007 - May 2011)
 ## Work experience
 Software Engineer at Amazon AWS (Sept 2022 - present)
 
-Data Scienc Intern at iManage (May 2022 - Aug 2022)
+Data Science Intern at iManage (May 2022 - Aug 2022)
 
 Research assistant at UIUC (Aug 2015 - May 2022)
 
