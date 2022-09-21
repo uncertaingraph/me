@@ -10,11 +10,11 @@ redirect_from:
 
 ## About me
 <div style="text-align: justify">
-Welcome to my home on the web! My name is Frank, I am currently a Software Engineer (SDE-II) at Amazon AWS.</a>.
+Welcome to my home on the web! My name is Frank, I am currently a Software Engineer (SDE-II) at Amazon AWS.
 </div><br>
 
 <div style="text-align: justify">
-Before joining Amazon, I was an ECE Ph.D. student from the University of Illinois Urbana-Champaign (UIUC) under <a href="http://dmnicol.web.engr.illinois.edu/">Prof. David M. Nicol. My research combined network security, graph theory, probability theory, and quantitative risk to answer a fundamental question "how to accurately and efficiently estimate the risk of cyber-attacks against networks?" The answer the question helps network defenders make timely, optimal, and risk-informed defense decisions proactively and reactively--i.e., prior to and during a network breach.
+Before joining Amazon, I was an ECE Ph.D. student from the University of Illinois Urbana-Champaign (UIUC) under <a href="http://dmnicol.web.engr.illinois.edu/">Prof. David M. Nicol</a>. My research combined network security, graph theory, probability theory, and quantitative risk to answer a fundamental question "how to accurately and efficiently estimate the risk of cyber-attacks against networks?" The answer the question helps network defenders make timely, optimal, and risk-informed defense decisions proactively and reactively--i.e., prior to and during a network breach.
 
 </div><br>
 <div style="text-align: justify">
