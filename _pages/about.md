@@ -42,7 +42,7 @@ function ShowAndHide(SectionName) {
 
 ## Announcement
 <div style="text-align: justify">
-  <b>Sept 06th, 2022:</b> Happy to share that I have joined Amazon AWS as a Software Engineer (SDE-II). 
+  <b>September 06th, 2022:</b> Happy to share that I have joined Amazon AWS as a Software Engineer (SDE-II). 
 </div><br>
   
 <b>May 24th, 2022:</b> I passed the doctoral final examination! The title of my thesis is <i>"Modeling and analysis of trustworthy systems using extensions of network reliability"</i>.
