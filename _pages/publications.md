@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+You can find all of my articles on my <a href="https://scholar.google.com/citations?user=VMc14jAAAAAJ&hl=en">Google Scholar</a> profile.
+
 ## Selected publications
 <u>Hoang Hai Nguyen</u>, Kartik Palani, David M Nicol, **Exploiting monotonicity and symmetry for evaluation of highly dependable systems**, to appear in *the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022)*.<br>
 
@@ -25,5 +27,3 @@ Rui Tan, <u>Hoang Hai Nguyen</u>, Eddy YS Foo, David KY Yau, Zbigniew Kalbarczyk
 <u>Hoang Hai Nguyen</u>, Rui Tan, David KY Yau, **Safety-assured collaborative load management in smart grids**, *the 5th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2014)*.
     
 Deokwoo Jung, Varun Badrinath Krishna, Ngo Quang Minh Khiem, <u>Hoang Hai Nguyen</u>, David KY Yau, **Energytrack: sensor-driven energy use analysis system**, *the 5th ACM Workshop on Embedded Systems For Energy-Efficient Buildings (BuildSys 2013)*.
-
-You can find all of my articles on my <a href="https://scholar.google.com/citations?user=VMc14jAAAAAJ&hl=en">Google Scholar</a> profile.
